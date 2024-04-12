@@ -1,3 +1,8 @@
+---
+title: Using gitmoji-cli from within lazygit
+createdAt: 2023/03/11
+---
+
 # Using gitmoji-cli from within lazygit
 
 [Gitmoji](https://gitmoji.dev/) is a powerful tool to enhance
